@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the Blog",
+      "description": "This is your first post.",
+      "date": "2025-01-01T00:00:00.000Z",
+      "image": "https://imgs.search.brave.com/FTrVbwNWZ60yiVWcWMfeaxSx9o_Wa1KGpMofPRoSCBw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/Y3JlYXRpdmUtd2Vs/Y29tZS10ZWFtLWJh/bm5lci1jb3Jwb3Jh/dGUtaGlyaW5nXzEw/MTctNDMyODIuanBn/P3NlbXQ9YWlzX2h5/YnJpZCZ3PTc0MCZx/PTgw",
+      "category": "General",
+      "author": "Admin",
+      "popularity": 5
+    },
+    {
+      "title": "Jay Hind",
+      "description": "Jay Bharat",
+      "date": "2025-10-08",
+      "image": "https://imgs.search.brave.com/sXOMTigL-iIlsPc-jc5L5wGRYI-pnHh6YkTIXkFAZ60/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi93YXZ5/LWluZGlhbi1mbGFn/LXN1bnNldC1za3kt/aW5kaWFuLWluZGVw/ZW5kZW5jZS1kYXkt/d2F2eS1pbmRpYW4t/ZmxhZy1zdW5zZXQt/c2t5LWNlbGVicmF0/aW9uLWZsYWctaW5k/aWFuLTEyMjA4MTMy/OC5qcGc",
+      "category": "Rastra",
+      "author": "Admin",
+      "popularity": 0,
+      "id": 3
+    }
+  ]
+}
